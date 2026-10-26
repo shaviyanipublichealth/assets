@@ -1,0 +1,47 @@
+{
+  "atoll": "Shaviyani Atoll",
+  "version": "1.0.0",
+  "last_updated": "2026-10-26",
+  "travel_vaccines": [
+    {
+      "code": "4794",
+      "name_en": "Meningococcal Meningitis (ACWY) Vaccine",
+      "name_dv": "މެނިންޖައިޓިސް (ACYW) ވެކުސިން",
+      "category": "Travel / Pilgrimage",
+      "mandatory_for": ["Hajj", "Umrah"],
+      "free_under_hajj_corp": true,
+      "validity_years": 5,
+      "default_manufacturer": "Sanofi Pasteur Inc"
+    },
+    {
+      "code": "1013",
+      "name_en": "Oral Polio Vaccine (bOPV / Polio)",
+      "name_dv": "ޕޯލިއޯ ވެކުސިން (bOPV)",
+      "category": "Travel / Pilgrimage",
+      "mandatory_for": ["Hajj", "Umrah"],
+      "free_under_hajj_corp": true,
+      "validity_years": 1,
+      "default_manufacturer": "Serum Institute of India Pvt. Ltd"
+    },
+    {
+      "code": "VAC-INF",
+      "name_en": "Influenza Vaccine",
+      "name_dv": "އިންފުލުއެންޒާ ވެކުސިން",
+      "category": "Travel / Routine",
+      "mandatory_for": ["Travelers"],
+      "free_under_hajj_corp": false,
+      "validity_years": 1,
+      "default_manufacturer": "Abbott Biologicals B.V"
+    },
+    {
+      "code": "4816",
+      "name_en": "Inactivated Polio Vaccine (IPV)",
+      "name_dv": "އައި.ޕީ.ވީ ވެކުސިން",
+      "category": "Travel / Routine",
+      "mandatory_for": ["Pregnant Women / Travelers"],
+      "free_under_hajj_corp": false,
+      "validity_years": 1,
+      "default_manufacturer": "Serum Institute of India Pvt. Ltd"
+    }
+  ]
+}
